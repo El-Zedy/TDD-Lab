@@ -14,8 +14,8 @@
 -- beforeAll
 #### Ex #1 :Test function to evaluate Car speed
 --------------------------------------------
-  Req # 1 : Input to the function is the car speed and output shall be speed level
-  Req# 2 : Function shall calculate output to be:
+  ###### Req # 1 : Input to the function is the car speed and output shall be speed level
+  ###### Req # 2 : Function shall calculate output to be:
   
       - If          Speed < 0    Level shall be Invalid 
       - If     0 <= Speed < 40  Level shall be Low
@@ -26,8 +26,8 @@
 
 #### Ex #2 :Test function to evaluate students Scores
 --------------------------------------------------
-  Req # 1 : Input to the function is student Scores and output student Level
-  Req# 2 : Function shall calculate output to be:
+  ###### Req # 1 : Input to the function is student Scores and output student Level
+  ###### Req # 2 : Function shall calculate output to be:
   
       - If         Score < 0    Level shall be Invalid 
       - If    0 <= Score < 50   Level shall be Failed 
