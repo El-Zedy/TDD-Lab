@@ -2,8 +2,8 @@
 ## unit testing lab using 'unittest' in python 
 
 ### Create Tests using unittest framework
-- test one act as ex1.py
-- test two act as ex2.py
+- test one acts as ex1.py
+- test two acts as ex2.py
 
 #### Using the test techniques => write test cases to test the following function with respect to following rules :
 - Mentioned used techniques 
